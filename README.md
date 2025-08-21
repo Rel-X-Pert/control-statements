@@ -1,4 +1,4 @@
-# My First Java Programs 🎉
+# My Second Java Programs 🎉
 
 Hello! This is my second collection of Java programs. I'm learning Java step by step, starting with the basics and control statements.
 
